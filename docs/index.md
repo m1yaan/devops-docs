@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://m1yaan.github.io/devops-docs/`.
+См. [несуществующий раздел](missing-page.md).
